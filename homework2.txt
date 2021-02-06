@@ -1,0 +1,44 @@
+
+1. Watch the following videos,
+
+https://www.youtube.com/watch?v=f4KOjWS_KZs&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=11
+
+https://www.youtube.com/watch?v=NE97ylAnrz4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=12
+
+https://www.youtube.com/watch?v=ohCDWZgNIU0&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=14
+
+https://www.youtube.com/watch?v=sBvaPopWOmQ&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=13
+
+https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15
+
+https://www.youtube.com/watch?v=NI26dqhs2Rk&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=16
+
+2. Think about 3 problems that you wonna ask Python to help you
+
+3. string manipulation
+
+GIven the following string,
+
+"""
+1::Toy Story (1995)::Animation|Children's|Comedy
+
+2::Jumanji (1995)::Adventure|Children's|Fantasy
+
+3::Grumpier Old Men (1995)::Comedy|Romance
+
+"""
+
+   a. write them to a text file, (5')
+   b. read each line from the file, (5')
+   c. then extract genre and print them out, use split (10')
+   c. optional: extract the movie name, year, (20')
+
+4. optional
+install and use pyfiglet to print all ascii letters from code 32 to code 128 (20')
+chr(65) = 'A'
+
+5. write a program to find all complete number between 0 and 1000
+a complete number is equal to the sum of all its factors. for example,
+6 = 1 + 2 + 3, so 6 is a complete number
+
+Please submit your homework here.
